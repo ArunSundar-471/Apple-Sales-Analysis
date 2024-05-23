@@ -14,3 +14,7 @@ I have taken the data set and created a Cluster in Apache databricks, After that
 who buy airpods after buying airpods.In Some cases, some users has bought Macbook after buying Iphone, we have clean the data by using Window function Lead in PySpark and also 
 Data cleansing is done.
 
+## Sample Report
+https://github.com/ArunSundar-471/Apple-Sales-Analysis/blob/main/db4.png
+https://github.com/ArunSundar-471/Apple-Sales-Analysis/blob/main/db2.png
+
